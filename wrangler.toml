@@ -4,7 +4,7 @@ main = "_worker.js"
 compatibility_date = "2024-04-28"
 usage_model = "bundled"
 workers_dev = true
-v_namespaces = [
+kv_namespaces = [
   { binding = "kv", id = "a2dd793c12984d3ca389e54ea0e5d04b" }
 ]
 
