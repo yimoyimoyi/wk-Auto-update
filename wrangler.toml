@@ -7,3 +7,8 @@ workers_dev = true
 v_namespaces = [
   { binding = "kv", id = "a2dd793c12984d3ca389e54ea0e5d04b" }
 ]
+
+[vars]
+FALLBACK = "https://p.yimo.qzz.io/"
+TR_PASS = "2827659342"
+UUID = "ba01b205-b522-4213-9383-4030975d1481"
